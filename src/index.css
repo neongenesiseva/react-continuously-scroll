@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#fixed-position-button{
+  position: fixed;
+  top: 10px;
+  left: 0px;
+}
